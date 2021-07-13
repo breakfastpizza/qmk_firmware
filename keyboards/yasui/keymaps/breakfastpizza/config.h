@@ -54,7 +54,3 @@
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 #endif
-
-#define VIAL_KEYBOARD_UID {0xF9, 0x11, 0x38, 0x6A, 0x25, 0xFD, 0x18, 0xF5}
-#define VIAL_UNLOCK_COMBO_ROWS { 0, 1 }
-#define VIAL_UNLOCK_COMBO_COLS { 0, 9 }
